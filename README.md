@@ -13,6 +13,13 @@ Developed ML models to predict disease progression using voice features. Improve
 **Multi-Agent AI for SDLC Automation** (https://github.com/nivegnachowdary/multi-agent-llm-sdlc-automation)  
 LangChain-based system using LLMs for requirement gathering, code gen, and QA.
 
+**YouTube Engagement Analysis** (https://github.com/nivegnachowdary/youtube-engagement-analysis)  
+YouTube API with AWS and Tableau, aiming to help content creators with necessary insights to boost audience engagement.
+
+**Real-time news Sentiment Analysis** (https://github.com/nivegnachowdary/Real-time-news-sentiment-analysis)  
+Real-time scraping of news headlines from public sources like NewsAPI and Sentiment classification using NLP models.
+
+
 
 ## Contact
 
