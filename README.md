@@ -19,6 +19,9 @@ YouTube API with Python, AWS and Tableau, aiming to help content creators with n
 **Real-time news Sentiment Analysis** (https://github.com/nivegnachowdary/Real-time-news-sentiment-analysis)  
 Real-time scraping of news headlines from public sources like NewsAPI and Sentiment classification using NLP models.
 
+**Customer churn prediction** (https://github.com/nivegnachowdary/churn-prediction)
+Predicting the churn percentage of customers depending on multiple factors using different Machine Learning models.
+
 
 
 ## Contact
