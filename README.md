@@ -22,6 +22,9 @@ Real-time scraping of news headlines from public sources like NewsAPI and Sentim
 **Customer churn prediction** (https://github.com/nivegnachowdary/churn-prediction)
 Predicting the churn percentage of customers depending on multiple factors using different Machine Learning models.
 
+**Airbnb Analysis** (https://github.com/nivegnachowdary/Airbnb-Analysis-)
+Analysis and visualization of Airbnbs in Santa Clara county using Python for data analysis and Tableau for interactive visualizations. This project explores trends, pricing patterns, guest sentiments, and other key metrics related to Airbnb properties in the area.
+
 
 
 ## Contact
